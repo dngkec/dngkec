@@ -1,3 +1,4 @@
+<h1 align="center">Hi 👋, I'm DINESH GOSWAMI</h1>
 <h3 align="center">TECHY</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dngkec&label=Profile%20views&color=0e75b6&style=flat" alt="dngkec" /> </p>
